@@ -2,11 +2,11 @@
 
 **Full-Stack Web Developer · SaaS & ERP Builder · Founder of Dremoy**
 
-I design and build web applications for real-world business and education workflows.
+I build web applications and software products for real-world business and education workflows.
 
-My current focus is on **React, Laravel, Supabase, PostgreSQL, and modern SaaS architecture**.
+My current focus is **React, Laravel, Supabase, PostgreSQL, and production SaaS development**.
 
-<p>
+<p align="left">
   <a href="https://dremoy.com">
     <img src="https://img.shields.io/badge/Dremoy-111827?style=for-the-badge" alt="Dremoy">
   </a>
@@ -17,32 +17,30 @@ My current focus is on **React, Laravel, Supabase, PostgreSQL, and modern SaaS a
 
 ---
 
-## What I Work On
-
-**SaaS & Business Software**
-Business management tools, CRM, financial tracking, workflow management and multi-user applications.
-
-**School Management Systems**
-ERP solutions for students, teachers, attendance, exams, fees, routines and reporting.
-
-**Web & E-commerce**
-Custom websites, WordPress solutions and e-commerce platforms for businesses.
-
----
-
-## Selected Projects
+## Selected Work
 
 ### Dremoy Income Manager
 
-A business management application for managing income, expenses, customers, tasks, tuition and business performance.
+Business management software for managing income, expenses, customers, tasks, tuition and business performance.
 
 **React · Vite · Supabase · PostgreSQL · Tailwind CSS**
 
 ### Dremoy School ERP
 
-A multi-tenant school management platform covering students, teachers, attendance, exams, fees, routines and reports.
+A multi-tenant school management platform covering students, teachers, attendance, exams, fees, routines and reporting.
 
 **Laravel · PHP · MySQL · Blade · Tailwind CSS**
+
+---
+
+## What I Build
+
+* SaaS & Business Management Software
+* School Management & ERP Systems
+* Financial & Income Management Applications
+* CRM & Workflow Solutions
+* Custom Web Applications
+* E-commerce & WordPress Solutions
 
 ---
 
@@ -53,7 +51,7 @@ A multi-tenant school management platform covering students, teachers, attendanc
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,supabase,postgresql,mysql" alt="Backend">
+  <img src="https://skillicons.dev/icons?i=php,laravel,supabase,postgresql,mysql" alt="Backend and Database">
 </p>
 
 <p>
@@ -61,39 +59,34 @@ A multi-tenant school management platform covering students, teachers, attendanc
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify" alt="CMS and Ecommerce">
+  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify" alt="CMS and E-commerce">
 </p>
 
 ---
 
 ## Current Focus
 
-* Building production-ready SaaS applications
-* Multi-tenant architecture and role-based access
-* Authentication, security and data ownership
+* Production-ready SaaS applications
+* Multi-tenant architecture
+* Authentication & application security
+* Role-based access control
 * React application architecture
 * Laravel backend development
 * PostgreSQL & Supabase
-* Cloud deployment and production infrastructure
+* Cloud deployment & infrastructure
 
 ---
 
-## Experience
+## Dremoy
 
-**Founder — Dremoy**
-
-Building software products and digital solutions for businesses, education and online commerce.
-
-Previously focused heavily on **WordPress, e-commerce and web solutions**, and now expanding into full-stack product development and SaaS.
+**Dremoy** is my software and digital solutions brand, focused on building practical technology for businesses, education and online commerce.
 
 ---
 
 ## Contact
 
 **Email:** [furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)
-**Website:** [Dremoy](https://dremoy.com)
-
----
+**Website:** https://dremoy.com
 
 <p align="center">
   <sub>Building software around real workflows, not just demos.</sub>
