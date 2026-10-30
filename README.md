@@ -62,10 +62,7 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" alt="Tools and Platforms" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20Pair%20Programmer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Assisted%20Dev-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/antigravity.svg" height="48" alt="Google Antigravity" />
 </p>
 
 </div>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <!-- Skillicons style rounded square tile -->
+  <rect width="256" height="256" rx="60" fill="#1E293B" stroke="rgba(255, 255, 255, 0.08)" stroke-width="2"/>
+  
+  <defs>
+    <!-- Google Colors Linear Gradient -->
+    <linearGradient id="googleGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4285F4"/>
+      <stop offset="35%" stop-color="#34A853"/>
+      <stop offset="70%" stop-color="#FBBC05"/>
+      <stop offset="100%" stop-color="#EA4335"/>
+    </linearGradient>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#4285F4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ambient Glow -->
+  <rect width="256" height="256" rx="60" fill="url(#centerGlow)"/>
+
+  <!-- Google Antigravity Icon Glyph -->
+  <g transform="translate(128, 128)">
+    <!-- Upward Defying Outer Chevron (Antigravity 'A') -->
+    <path d="M 0 -72 L 64 54 C 67 60, 62 68, 55 68 L 32 68 L 0 2 M 0 -72 L -64 54 C -67 60, -62 68, -55 68 L -32 68 L 0 2" 
+          fill="none" stroke="url(#googleGlow)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Floating Quantum Core -->
+    <circle cx="0" cy="18" r="14" fill="#FFFFFF"/>
+    <circle cx="0" cy="18" r="8" fill="#4285F4"/>
+
+    <!-- Orbital Levitation Rings -->
+    <ellipse cx="0" cy="18" rx="42" ry="12" fill="none" stroke="#38BDF8" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  </g>
+</svg>
