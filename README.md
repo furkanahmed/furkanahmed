@@ -61,8 +61,9 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
   <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/antigravity.svg" height="48" alt="Google Antigravity" />
+  <img src="https://skillicons.dev/icons?i=postman,vercel,aws" alt="Postman, Vercel, AWS" />
 </p>
 
 </div>
