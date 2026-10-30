@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Full-Stack Developer Banner" />
+  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Junior Web Developer Banner" />
 </p>
 
 <!-- SOCIAL & CONTACT BADGES -->
@@ -23,23 +23,31 @@
 
 ## 👨‍💻 About Me
 
-Hello and welcome to my GitHub profile! I am **Furkan Ahmed**, a dedicated **Full-Stack Web Developer** and the **Founder of Dremoy**. I specialize in engineering clean, scalable, and high-performance web applications, multi-tenant SaaS platforms, and enterprise ERP solutions that drive real-world business results.
+Hello and welcome to my GitHub! I am **Furkan Ahmed**, an enthusiastic and dedicated **Junior Web Developer**.
 
-I have a strong passion for solving intricate architectural challenges—from designing normalized PostgreSQL schemas and real-time Supabase workflows to developing modern, lightning-fast user interfaces with React and Next.js. I thrive at the intersection of robust backend engineering and intuitive frontend user experiences.
+I strongly believe that true professional excellence begins with **honesty, sincerity, and an uncompromising work ethic**. I am at an early stage in my developer journey, and I value transparency above all else. Instead of making big claims, I focus on what truly matters: mastering core programming fundamentals, writing clean, well-structured code, and building real, functional web applications.
 
----
+### 🌟 Why I Believe I Can Be a Valuable Addition to Your Team:
+- **Honest & Growth-Minded:** I am honest about what I know, and I have the curiosity, discipline, and determination to learn whatever is necessary to solve a problem.
+- **Fast Learner & Highly Coachable:** When experienced developers or mentors guide me, I listen attentively, implement feedback rigorously, and work tirelessly to exceed expectations.
+- **Hands-On Project Experience:** I don't just study theory; I build real projects using **JavaScript (ES6+), React, Next.js, and Tailwind CSS**, while actively expanding into backend technologies like **Laravel, PostgreSQL, and Supabase**.
+- **Reliable & Dedicated:** I take complete ownership of the tasks assigned to me, respect deadlines, and put my sincere effort into every line of code.
 
-## 🔭 Current Focus & Activities
-
-- 🔭 **Currently Working On:** Production-grade SaaS platforms, including **[Dremoy Income Manager](https://app.dremoy.com/)** and **[Dremoy School ERP](https://school.dremoy.com/)**.
-- 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions, PPR)**, advanced cloud architecture, and micro-services.
-- 💡 **Key Interest Areas:** Multi-tenant architecture, role-based access control (RBAC), and automated financial workflows.
-- 💬 **Ask Me About:** **React, Next.js, Laravel, Supabase, PostgreSQL, REST APIs**, and database optimization.
-- 📫 **How to reach me:** Drop me an email at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
+I am actively looking for an **entry-level / junior developer role, an internship, or opportunities to contribute to meaningful projects** where I can work under experienced mentors, deliver genuine value, and grow into an exceptional software engineer.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🔭 Current Focus & Learning Journey
+
+- 🔭 **Currently Building:** Practical web applications including **[BazarDor](https://github.com/furkanahmed/bazardor)** (Daily Commodity Price Tracker), **[Dremoy Income Manager](https://app.dremoy.com/)**, and **[Dremoy School ERP](https://school.dremoy.com/)**.
+- 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions)**, component architecture, state management, and database design.
+- 🎯 **Career Aspiration:** To grow under the mentorship of senior engineers into a dependable, skilled, and impactful developer.
+- 💬 **Ask Me About:** **HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js, Git**, and my dedication to continuous self-improvement.
+- 📫 **How to Reach Me:** Have an opportunity, feedback, or guidance to share? I would love to connect! Email me at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
+
+---
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
@@ -48,19 +56,19 @@ I have a strong passion for solving intricate architectural challenges—from de
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,vite,redux" alt="Frontend Skills" />
 </p>
 
-### Backend & Database
+### Backend & Database (Learning & Exploring)
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,supabase,postgresql,mysql,mongodb" alt="Backend & Database Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,supabase,postgresql,mysql" alt="Backend & Database Skills" />
 </p>
 
-### DevOps, Cloud & Tools
+### DevOps, Workflow & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,postman,vscode,figma" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma" alt="DevOps and Tools" />
 </p>
 
-### CMS & E-Commerce
+### CMS & Web Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify" alt="CMS & E-Commerce" />
+  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce" alt="CMS Platforms" />
 </p>
 
 </div>
@@ -86,10 +94,11 @@ I have a strong passion for solving intricate architectural challenges—from de
 | :--- | :--- | :--- | :--- |
 | **🛒 BazarDor** | Daily Commodity Price Tracker across wholesale/retail markets in Bangladesh with Bengali numerals sorting, real-time trends, and dynamic price tracking. | `Next.js` `Tailwind CSS` `BetterAuth` `Lucide` | [Live Demo](https://bazardor2-gilt.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/bazardor) |
 | **🏋️ FitLog** | Modern dark-themed workout library and daily exercise planner featuring interactive metrics, calorie tracking, and customized workout plans. | `Next.js` `React` `Tailwind CSS` `Context API` | [Live Demo](https://fitlog-b14-a6.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/afit) |
-| **💼 Dremoy Income Manager** | Production business management platform for managing cash flow, customer dues, expenses, tuition fees, and financial intelligence. | `React` `Vite` `Supabase` `PostgreSQL` `Tailwind` | [Live Demo](https://dremoy.com) • [Website](https://dremoy.com) |
+| **💼 Dremoy Income Manager** | Practical business tool for tracking cash flow, customer dues, expenses, tuition fees, and financial records. | `React` `Vite` `Supabase` `Tailwind` | [Live App](https://app.dremoy.com/) • [Website](https://dremoy.com) |
+| **🏫 Dremoy School ERP** | Multi-tenant educational management system prototype built to organize students, teachers, classes, and schedules. | `Laravel` `PHP` `MySQL` `Tailwind` | [Live Preview](https://school.dremoy.com/) • [Website](https://dremoy.com) |
 
 ---
 
 <p align="center">
-  <sub>Designed with ❤️ by <b>Furkan Ahmed</b> · Building software around real-world workflows.</sub>
+  <sub>Built with honesty &amp; dedication by <b>Furkan Ahmed</b> · Constantly learning, growing, and coding.</sub>
 </p>

@@ -41,7 +41,7 @@
     .title {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-weight: 800;
-      font-size: 42px;
+      font-size: 40px;
       fill: url(#textGrad);
       letter-spacing: -0.5px;
     }
@@ -85,9 +85,9 @@
 
   <!-- Top Pill Badge -->
   <g transform="translate(60, 36)">
-    <rect width="180" height="26" rx="13" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
+    <rect width="210" height="26" rx="13" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
     <circle cx="15" cy="13" r="4" fill="#38bdf8"/>
-    <text x="27" y="17" class="badge-text">FULL-STACK DEVELOPER</text>
+    <text x="27" y="17" class="badge-text">JUNIOR WEB DEVELOPER</text>
   </g>
 
   <!-- Main Name & Heading -->
@@ -97,47 +97,45 @@
 
   <!-- Role / Subheading -->
   <g transform="translate(60, 140)">
-    <text x="0" y="0" class="desc">Full-Stack Web Developer · SaaS &amp; ERP Architect · Founder of Dremoy</text>
+    <text x="0" y="0" class="desc">Passionate Junior Web Developer · Fast &amp; Dedicated Learner</text>
   </g>
 
   <!-- Tagline -->
   <g transform="translate(60, 168)">
-    <text x="0" y="0" class="sub-desc">Building production-grade SaaS, multi-tenant databases &amp; automated business workflows</text>
+    <text x="0" y="0" class="sub-desc">Driven by honesty, hard work, and a commitment to grow with proper guidance</text>
   </g>
 
   <!-- Technology Pills (Bottom Accent) -->
   <g transform="translate(60, 192)">
     <!-- Pill 1 -->
-    <rect x="0" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="12" y="16" class="tag-text">React</text>
+    <rect x="0" y="0" width="100" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="12" y="16" class="tag-text">JavaScript</text>
 
     <!-- Pill 2 -->
-    <rect x="80" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="91" y="16" class="tag-text">Next.js</text>
+    <rect x="110" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="122" y="16" class="tag-text">React</text>
 
     <!-- Pill 3 -->
-    <rect x="170" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="183" y="16" class="tag-text">Laravel</text>
+    <rect x="190" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="201" y="16" class="tag-text">Next.js</text>
 
     <!-- Pill 4 -->
-    <rect x="260" y="0" width="94" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="272" y="16" class="tag-text">Supabase</text>
+    <rect x="280" y="0" width="86" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="290" y="16" class="tag-text">Tailwind</text>
 
     <!-- Pill 5 -->
-    <rect x="364" y="0" width="104" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="375" y="16" class="tag-text">PostgreSQL</text>
+    <rect x="376" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="390" y="16" class="tag-text">Laravel</text>
 
     <!-- Pill 6 -->
-    <rect x="478" y="0" width="94" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="488" y="16" class="tag-text">Tailwind</text>
+    <rect x="466" y="0" width="55" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="477" y="16" class="tag-text">Git</text>
   </g>
 
   <!-- Right Side Decorative Graphic -->
   <g transform="translate(770, 40)" opacity="0.85">
-    <!-- Outer Octagon/Circle outline -->
     <circle cx="90" cy="80" r="70" fill="none" stroke="url(#textGrad)" stroke-width="1.5" stroke-dasharray="6 6"/>
     <circle cx="90" cy="80" r="50" fill="#0f172a" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
-    <!-- Code Brackets Icon in Center -->
     <path d="M 75 70 L 63 80 L 75 90" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 105 70 L 117 80 L 105 90" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 94 65 L 86 95" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round"/>
