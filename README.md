@@ -51,12 +51,12 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,laravel" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,laravel" alt="Backend Technologies" />
 </p>
 
 ### Tools & Platforms
