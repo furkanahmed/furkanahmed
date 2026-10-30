@@ -87,7 +87,7 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 | Project | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :--- |
-| **🛒 BazarDor** | Daily Commodity Price Tracker across wholesale/retail markets in Bangladesh with Bengali numerals sorting, real-time trends, and dynamic price tracking. | `Next.js` `Tailwind CSS` `BetterAuth` `Lucide` | [Live Demo](https://bazardor2-gilt.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/bazardor) |
+| **🛒 BazarDor** | Daily Commodity Price Tracker across wholesale/retail markets in Bangladesh with Bengali numerals sorting, real-time trends, and dynamic price tracking. | `Next.js` `Tailwind CSS` `BetterAuth` `Lucide` | [Live Demo](https://live-bazardor.netlify.app/) • [GitHub Repo](https://github.com/furkanahmed/bazardor) |
 | **🧱 DevStack Builder** | Interactive Tech Stack Explorer to compare, select, and assemble software development stacks with duplicate prevention and live sidebar. | `React 18` `Vite` `Tailwind CSS` `DaisyUI` | [Live Demo](https://devstack-live.netlify.app/) • [GitHub Repo](https://github.com/furkanahmed/B14-A05-DevStack) |
 | **🏋️ FitLog** | Modern dark-themed workout library and daily exercise planner featuring interactive metrics, calorie tracking, and customized workout plans. | `Next.js` `React` `Tailwind CSS` `Context API` | [Live Demo](https://fitlog-b14-a6.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/afit) |
 | **💼 Dremoy Income Manager** | Practical business tool for tracking cash flow, customer dues, expenses, tuition fees, and financial records. | `React` `Vite` `Supabase` `Tailwind` | [Live App](https://app.dremoy.com/) • [Website](https://dremoy.com) |
