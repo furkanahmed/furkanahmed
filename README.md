@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Full-Stack Developer Banner" />
+  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/header.svg" width="100%" alt="Furkan Ahmed - Full-Stack Developer Banner" />
 </p>
 
 <!-- SOCIAL & CONTACT BADGES -->
