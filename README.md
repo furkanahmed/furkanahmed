@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Junior Web Developer Banner" />
+  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Full-Stack Developer Banner" />
 </p>
 
 <!-- SOCIAL & CONTACT BADGES -->
@@ -23,27 +23,21 @@
 
 ## 👨‍💻 About Me
 
-Hello and welcome to my GitHub! I am **Furkan Ahmed**, an enthusiastic and dedicated **Junior Web Developer**.
+Hello and welcome! I am **Furkan Ahmed**, a dedicated **Full-Stack Web Developer** and the **Founder of Dremoy**.
 
-I strongly believe that true professional excellence begins with **honesty, sincerity, and an uncompromising work ethic**. I am at an early stage in my developer journey, and I value transparency above all else. Instead of making big claims, I focus on what truly matters: mastering core programming fundamentals, writing clean, well-structured code, and building real, functional web applications.
+I believe true growth begins with **honesty, hard work, and a genuine eagerness to learn**. I am actively building real-world web applications using **React, Next.js, JavaScript, and Tailwind CSS**, while exploring backend architectures with **Laravel and Supabase**.
 
-### 🌟 Why I Believe I Can Be a Valuable Addition to Your Team:
-- **Honest & Growth-Minded:** I am honest about what I know, and I have the curiosity, discipline, and determination to learn whatever is necessary to solve a problem.
-- **Fast Learner & Highly Coachable:** When experienced developers or mentors guide me, I listen attentively, implement feedback rigorously, and work tirelessly to exceed expectations.
-- **Hands-On Project Experience:** I don't just study theory; I build real projects using **JavaScript (ES6+), React, Next.js, and Tailwind CSS**, while actively expanding into backend technologies like **Laravel, PostgreSQL, and Supabase**.
-- **Reliable & Dedicated:** I take complete ownership of the tasks assigned to me, respect deadlines, and put my sincere effort into every line of code.
-
-I am actively looking for an **entry-level / junior developer role, an internship, or opportunities to contribute to meaningful projects** where I can work under experienced mentors, deliver genuine value, and grow into an exceptional software engineer.
+I am a quick, highly coachable learner who takes full ownership of every task. With proper mentorship and guidance, I am committed to putting in my sincere effort, learning rapidly, and delivering exceptional value to your team.
 
 ---
 
-## 🔭 Current Focus & Learning Journey
+## 🔭 Current Focus & Activities
 
-- 🔭 **Currently Building:** Practical web applications including **[BazarDor](https://github.com/furkanahmed/bazardor)** (Daily Commodity Price Tracker), **[Dremoy Income Manager](https://app.dremoy.com/)**, and **[Dremoy School ERP](https://school.dremoy.com/)**.
-- 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions)**, component architecture, state management, and database design.
-- 🎯 **Career Aspiration:** To grow under the mentorship of senior engineers into a dependable, skilled, and impactful developer.
-- 💬 **Ask Me About:** **HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js, Git**, and my dedication to continuous self-improvement.
-- 📫 **How to Reach Me:** Have an opportunity, feedback, or guidance to share? I would love to connect! Email me at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
+- 🔭 **Currently Working On:** Developing production web applications, including **[Dremoy Income Manager](https://app.dremoy.com/)**, **[Dremoy School ERP](https://school.dremoy.com/)**, and **[BazarDor](https://github.com/furkanahmed/bazardor)**.
+- 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions)**, component architecture, and scalable database design.
+- 💡 **Core Mindset:** Honest dedication, continuous daily practice, and striving for excellence under senior mentorship.
+- 💬 **Ask Me About:** **React, Next.js, JavaScript, Tailwind CSS, Laravel, Git**, and responsive UI design.
+- 📫 **How to reach me:** Drop me an email at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
 
 ---
 
@@ -56,7 +50,7 @@ I am actively looking for an **entry-level / junior developer role, an internshi
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,vite,redux" alt="Frontend Skills" />
 </p>
 
-### Backend & Database (Learning & Exploring)
+### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,supabase,postgresql,mysql" alt="Backend & Database Skills" />
 </p>

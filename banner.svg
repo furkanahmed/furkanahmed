@@ -1,143 +1,144 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" text-rendering="geometricPrecision" shape-rendering="geometricPrecision">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="0%" stop-color="#070c18"/>
       <stop offset="50%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#080e1a"/>
     </linearGradient>
 
-    <!-- Text Gradient -->
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Text Gradient for Name -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="50%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
 
-    <!-- Accent Glow Gradient -->
-    <radialGradient id="glowGrad" cx="20%" cy="30%" r="60%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18"/>
+    <!-- Accent Glows -->
+    <radialGradient id="glow1" cx="20%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowGrad2" cx="85%" cy="70%" r="50%">
-      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.15"/>
+    <radialGradient id="glow2" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Border Gradient -->
+    <!-- Crisp Border Gradient -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.6"/>
     </linearGradient>
 
-    <!-- Grid Pattern -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1"/>
+    <!-- Tech Grid Background -->
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1"/>
     </pattern>
   </defs>
 
   <style>
     .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
       font-weight: 800;
-      font-size: 40px;
-      fill: url(#textGrad);
+      font-size: 42px;
+      fill: url(#nameGrad);
       letter-spacing: -0.5px;
     }
     .badge-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 11px;
-      font-weight: 700;
+      font-size: 11.5px;
+      font-weight: 800;
       letter-spacing: 1.5px;
       fill: #38bdf8;
       text-transform: uppercase;
     }
-    .desc {
+    .role-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 17px;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #ffffff;
+      letter-spacing: -0.2px;
+    }
+    .tagline-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14.5px;
       font-weight: 500;
-      fill: #cbd5e1;
+      fill: #93c5fd;
     }
-    .sub-desc {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 13.5px;
-      font-weight: 400;
-      fill: #94a3b8;
-    }
-    .tag-text {
+    .pill-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
-      font-size: 12px;
-      font-weight: 600;
-      fill: #e2e8f0;
+      font-size: 12.5px;
+      font-weight: 700;
+      fill: #ffffff;
     }
   </style>
 
-  <!-- Container Box -->
-  <rect width="1000" height="240" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <!-- Base Card Background -->
+  <rect width="1000" height="240" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.8"/>
 
-  <!-- Ambient Glows -->
-  <rect width="1000" height="240" rx="16" fill="url(#glowGrad)"/>
-  <rect width="1000" height="240" rx="16" fill="url(#glowGrad2)"/>
+  <!-- Ambient Light Effects -->
+  <rect width="1000" height="240" rx="16" fill="url(#glow1)"/>
+  <rect width="1000" height="240" rx="16" fill="url(#glow2)"/>
 
-  <!-- Grid Overlay -->
+  <!-- Tech Grid -->
   <rect width="1000" height="240" rx="16" fill="url(#grid)"/>
 
-  <!-- Top Pill Badge -->
-  <g transform="translate(60, 36)">
-    <rect width="210" height="26" rx="13" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="15" cy="13" r="4" fill="#38bdf8"/>
-    <text x="27" y="17" class="badge-text">JUNIOR WEB DEVELOPER</text>
+  <!-- Top Pill: Dremoy Brand & Developer -->
+  <g transform="translate(60, 34)">
+    <rect width="260" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.6" stroke-width="1.2"/>
+    <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
+    <text x="30" y="18.5" class="badge-text">FULL-STACK DEVELOPER · DREMOY</text>
   </g>
 
-  <!-- Main Name & Heading -->
+  <!-- Main Name Title -->
   <g transform="translate(60, 106)">
     <text x="0" y="0" class="title">Hi, I'm Furkan Ahmed 👋</text>
   </g>
 
-  <!-- Role / Subheading -->
+  <!-- Role Subheading (Crisp Bold White) -->
   <g transform="translate(60, 140)">
-    <text x="0" y="0" class="desc">Passionate Junior Web Developer · Fast &amp; Dedicated Learner</text>
+    <text x="0" y="0" class="role-text">Full-Stack Web Developer · Founder of Dremoy</text>
   </g>
 
-  <!-- Tagline -->
+  <!-- Tagline Subtext (Crisp Light Blue) -->
   <g transform="translate(60, 168)">
-    <text x="0" y="0" class="sub-desc">Driven by honesty, hard work, and a commitment to grow with proper guidance</text>
+    <text x="0" y="0" class="tagline-text">Building real-world web applications · Fast, honest learner eager to grow with guidance</text>
   </g>
 
-  <!-- Technology Pills (Bottom Accent) -->
+  <!-- Tech Pills (Bottom) -->
   <g transform="translate(60, 192)">
-    <!-- Pill 1 -->
-    <rect x="0" y="0" width="100" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="12" y="16" class="tag-text">JavaScript</text>
+    <!-- Pill 1: React -->
+    <rect x="0" y="0" width="76" height="26" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.3"/>
+    <text x="14" y="17.5" class="pill-text">React</text>
 
-    <!-- Pill 2 -->
-    <rect x="110" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="122" y="16" class="tag-text">React</text>
+    <!-- Pill 2: Next.js -->
+    <rect x="86" y="0" width="86" height="26" rx="6" fill="#1e293b" stroke="#818cf8" stroke-opacity="0.3"/>
+    <text x="98" y="17.5" class="pill-text">Next.js</text>
 
-    <!-- Pill 3 -->
-    <rect x="190" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="201" y="16" class="tag-text">Next.js</text>
+    <!-- Pill 3: JavaScript -->
+    <rect x="182" y="0" width="104" height="26" rx="6" fill="#1e293b" stroke="#fbbf24" stroke-opacity="0.3"/>
+    <text x="194" y="17.5" class="pill-text">JavaScript</text>
 
-    <!-- Pill 4 -->
-    <rect x="280" y="0" width="86" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="290" y="16" class="tag-text">Tailwind</text>
+    <!-- Pill 4: Tailwind -->
+    <rect x="296" y="0" width="92" height="26" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.3"/>
+    <text x="308" y="17.5" class="pill-text">Tailwind</text>
 
-    <!-- Pill 5 -->
-    <rect x="376" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="390" y="16" class="tag-text">Laravel</text>
+    <!-- Pill 5: Laravel -->
+    <rect x="398" y="0" width="86" height="26" rx="6" fill="#1e293b" stroke="#f43f5e" stroke-opacity="0.3"/>
+    <text x="410" y="17.5" class="pill-text">Laravel</text>
 
-    <!-- Pill 6 -->
-    <rect x="466" y="0" width="55" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
-    <text x="477" y="16" class="tag-text">Git</text>
+    <!-- Pill 6: Supabase -->
+    <rect x="494" y="0" width="98" height="26" rx="6" fill="#1e293b" stroke="#34d399" stroke-opacity="0.3"/>
+    <text x="506" y="17.5" class="pill-text">Supabase</text>
   </g>
 
-  <!-- Right Side Decorative Graphic -->
-  <g transform="translate(770, 40)" opacity="0.85">
-    <circle cx="90" cy="80" r="70" fill="none" stroke="url(#textGrad)" stroke-width="1.5" stroke-dasharray="6 6"/>
-    <circle cx="90" cy="80" r="50" fill="#0f172a" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
-    <path d="M 75 70 L 63 80 L 75 90" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 105 70 L 117 80 L 105 90" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 94 65 L 86 95" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right Decorative Element: Modern Orbiting Tech Graphic -->
+  <g transform="translate(770, 36)" opacity="0.9">
+    <circle cx="90" cy="84" r="72" fill="none" stroke="url(#nameGrad)" stroke-width="1.8" stroke-dasharray="6 6"/>
+    <circle cx="90" cy="84" r="52" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.5"/>
+    <path d="M 74 74 L 62 84 L 74 94" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 106 74 L 118 84 L 106 94" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 95 68 L 85 100" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round"/>
   </g>
 </svg>
