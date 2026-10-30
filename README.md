@@ -21,7 +21,7 @@
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
 I believe true growth begins with **honesty, hard work, and a genuine eagerness to learn.**
 
@@ -35,11 +35,11 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 ---
 
-## 🔭 Current Focus & Activities
+## 📌 Current Focus & Activities
 
 - 🔭 **Currently Working On:** Developing production web applications, including **[Dremoy Income Manager](https://app.dremoy.com/)**, **[Dremoy School ERP](https://school.dremoy.com/)**, and **[BazarDor](https://github.com/furkanahmed/bazardor)**.
 - 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions)**, component architecture, and scalable database design.
-- 💡 **Core Mindset:** Honest dedication, continuous daily practice, and striving for excellence under senior mentorship.
+- 🎯 **Core Mindset:** Honest dedication, continuous daily practice, and striving for excellence under senior mentorship.
 - 💬 **Ask Me About:** **React, Next.js, JavaScript, Tailwind CSS, Laravel, Git**, and responsive UI design.
 - 📫 **How to reach me:** Drop me an email at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
 
@@ -88,7 +88,7 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 | Project | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :--- |
 | **🛒 BazarDor** | Daily Commodity Price Tracker across wholesale/retail markets in Bangladesh with Bengali numerals sorting, real-time trends, and dynamic price tracking. | `Next.js` `Tailwind CSS` `BetterAuth` `Lucide` | [Live Demo](https://bazardor2-gilt.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/bazardor) |
-| **🧱 DevStack Builder** | Interactive Tech Stack Explorer to compare, select, and assemble software development stacks with duplicate prevention and live sidebar. | `React 18` `Vite` `Tailwind CSS` `DaisyUI` | [Live Demo](https://b14-a05-dev-stack.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/B14-A05-DevStack) |
+| **🧱 DevStack Builder** | Interactive Tech Stack Explorer to compare, select, and assemble software development stacks with duplicate prevention and live sidebar. | `React 18` `Vite` `Tailwind CSS` `DaisyUI` | [Live Demo](https://devstack-live.netlify.app/) • [GitHub Repo](https://github.com/furkanahmed/B14-A05-DevStack) |
 | **🏋️ FitLog** | Modern dark-themed workout library and daily exercise planner featuring interactive metrics, calorie tracking, and customized workout plans. | `Next.js` `React` `Tailwind CSS` `Context API` | [Live Demo](https://fitlog-b14-a6.vercel.app/) • [GitHub Repo](https://github.com/furkanahmed/afit) |
 | **💼 Dremoy Income Manager** | Practical business tool for tracking cash flow, customer dues, expenses, tuition fees, and financial records. | `React` `Vite` `Supabase` `Tailwind` | [Live App](https://app.dremoy.com/) • [Website](https://dremoy.com) |
 | **🏫 Dremoy School ERP** | Multi-tenant educational management system prototype built to organize students, teachers, classes, and schedules. | `Laravel` `PHP` `MySQL` `Tailwind` | [Live Preview](https://school.dremoy.com/) • [Website](https://dremoy.com) |
@@ -96,5 +96,5 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 ---
 
 <p align="center">
-  <sub>Built with honesty &amp; dedication by <b>Furkan Ahmed</b> · Constantly learning, growing, and coding.</sub>
+  <sub>Built with honesty &amp; dedication by <b>Furkan Ahmed</b> • Constantly learning, growing, and coding.</sub>
 </p>
