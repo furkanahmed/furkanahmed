@@ -47,29 +47,24 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,vite,redux" alt="Frontend Skills" />
+<p align="center">
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="HTML5" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="CSS3" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" alt="Tailwind CSS" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" alt="Bootstrap" />
 </p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,supabase,postgresql,mysql" alt="Backend & Database Skills" />
+<p align="center">
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase" />
 </p>
-
-### DevOps, Workflow & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma" alt="DevOps and Tools" />
+<p align="center">
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png" alt="Node.js" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png" alt="Express.js" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png" alt="MongoDB" />
+  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT" />
 </p>
-
-### CMS & Web Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce" alt="CMS Platforms" />
-</p>
-
-</div>
 
 ---
 
