@@ -47,24 +47,24 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="HTML5" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="CSS3" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" alt="Tailwind CSS" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" alt="Bootstrap" />
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" alt="Frontend Technologies" />
 </p>
-<p align="center">
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase" />
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,laravel" alt="Backend Technologies" />
 </p>
-<p align="center">
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png" alt="Node.js" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png" alt="Express.js" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png" alt="MongoDB" />
-  <img height="110" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT" />
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,aws" alt="Tools and Platforms" />
 </p>
+
+</div>
 
 ---
 
