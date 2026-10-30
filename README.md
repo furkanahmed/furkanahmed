@@ -1,13 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=220&section=header&text=Hi%2C%20I'm%20Furkan%20Ahmed&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20SaaS%20%26%20ERP%20Architect&descFontSize=19&descColor=93c5fd&descAlignY=60" width="100%" alt="Header Banner" />
-</p>
-
-<!-- TYPING SVG SUBTITLE -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Building+Production+SaaS+%26+ERP+Systems;Specialized+in+React%2C+Next.js%2C+Laravel+%26+Supabase;Founder+of+Dremoy" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/banner.svg" width="100%" alt="Furkan Ahmed - Full-Stack Developer Banner" />
 </p>
 
 <!-- SOCIAL & CONTACT BADGES -->
@@ -16,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-furkanbitm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://dremoy.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Dremoy.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Dremoy.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/furkanahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -82,7 +75,6 @@ I have a strong passion for solving intricate architectural challenges—from de
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkanahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 

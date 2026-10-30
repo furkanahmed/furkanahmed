@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <radialGradient id="glowGrad" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGrad2" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      fill: url(#textGrad);
+      letter-spacing: -0.5px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      fill: #38bdf8;
+      text-transform: uppercase;
+    }
+    .desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 17px;
+      font-weight: 500;
+      fill: #cbd5e1;
+    }
+    .sub-desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13.5px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .tag-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #e2e8f0;
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="1000" height="240" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Ambient Glows -->
+  <rect width="1000" height="240" rx="16" fill="url(#glowGrad)"/>
+  <rect width="1000" height="240" rx="16" fill="url(#glowGrad2)"/>
+
+  <!-- Grid Overlay -->
+  <rect width="1000" height="240" rx="16" fill="url(#grid)"/>
+
+  <!-- Top Pill Badge -->
+  <g transform="translate(60, 36)">
+    <rect width="180" height="26" rx="13" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="15" cy="13" r="4" fill="#38bdf8"/>
+    <text x="27" y="17" class="badge-text">FULL-STACK DEVELOPER</text>
+  </g>
+
+  <!-- Main Name & Heading -->
+  <g transform="translate(60, 106)">
+    <text x="0" y="0" class="title">Hi, I'm Furkan Ahmed 👋</text>
+  </g>
+
+  <!-- Role / Subheading -->
+  <g transform="translate(60, 140)">
+    <text x="0" y="0" class="desc">Full-Stack Web Developer · SaaS &amp; ERP Architect · Founder of Dremoy</text>
+  </g>
+
+  <!-- Tagline -->
+  <g transform="translate(60, 168)">
+    <text x="0" y="0" class="sub-desc">Building production-grade SaaS, multi-tenant databases &amp; automated business workflows</text>
+  </g>
+
+  <!-- Technology Pills (Bottom Accent) -->
+  <g transform="translate(60, 192)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="12" y="16" class="tag-text">React</text>
+
+    <!-- Pill 2 -->
+    <rect x="80" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="91" y="16" class="tag-text">Next.js</text>
+
+    <!-- Pill 3 -->
+    <rect x="170" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="183" y="16" class="tag-text">Laravel</text>
+
+    <!-- Pill 4 -->
+    <rect x="260" y="0" width="94" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="272" y="16" class="tag-text">Supabase</text>
+
+    <!-- Pill 5 -->
+    <rect x="364" y="0" width="104" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="375" y="16" class="tag-text">PostgreSQL</text>
+
+    <!-- Pill 6 -->
+    <rect x="478" y="0" width="94" height="24" rx="6" fill="#1e293b" stroke="rgba(255,255,255,0.08)"/>
+    <text x="488" y="16" class="tag-text">Tailwind</text>
+  </g>
+
+  <!-- Right Side Decorative Graphic -->
+  <g transform="translate(770, 40)" opacity="0.85">
+    <!-- Outer Octagon/Circle outline -->
+    <circle cx="90" cy="80" r="70" fill="none" stroke="url(#textGrad)" stroke-width="1.5" stroke-dasharray="6 6"/>
+    <circle cx="90" cy="80" r="50" fill="#0f172a" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+    <!-- Code Brackets Icon in Center -->
+    <path d="M 75 70 L 63 80 L 75 90" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 105 70 L 117 80 L 105 90" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 94 65 L 86 95" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+</svg>
