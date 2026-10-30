@@ -31,7 +31,7 @@ I have a strong passion for solving intricate architectural challenges—from de
 
 ## 🔭 Current Focus & Activities
 
-- 🔭 **Currently Working On:** Production-grade SaaS platforms, including **[Dremoy Income Manager](https://dremoy.com)** and **Dremoy School ERP**.
+- 🔭 **Currently Working On:** Production-grade SaaS platforms, including **[Dremoy Income Manager](https://app.dremoy.com/)** and **Dremoy School ERP**.
 - 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions, PPR)**, advanced cloud architecture, and micro-services.
 - 💡 **Key Interest Areas:** Multi-tenant architecture, role-based access control (RBAC), and automated financial workflows.
 - 💬 **Ask Me About:** **React, Next.js, Laravel, Supabase, PostgreSQL, REST APIs**, and database optimization.
