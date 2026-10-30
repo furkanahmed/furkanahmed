@@ -21,13 +21,17 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
 
-Hello and welcome! I am **Furkan Ahmed**, a dedicated **Full-Stack Web Developer** and the **Founder of Dremoy**.
+I believe true growth begins with **honesty, hard work, and a genuine eagerness to learn.**
 
-I believe true growth begins with **honesty, hard work, and a genuine eagerness to learn**. I am actively building real-world web applications using **React, Next.js, JavaScript, and Tailwind CSS**, while exploring backend architectures with **Laravel and Supabase**.
+I'm a passionate web developer focused on building practical, user-friendly, and real-world applications. I actively work with **JavaScript, React, Next.js, and Tailwind CSS**, while exploring backend development, database management, and application architecture using **Laravel, Supabase, and MongoDB**.
 
-I am a quick, highly coachable learner who takes full ownership of every task. With proper mentorship and guidance, I am committed to putting in my sincere effort, learning rapidly, and delivering exceptional value to your team.
+Beyond development, I have hands-on experience with **cloud infrastructure, VPS management, and application deployment**, including deploying an ERP application on **AWS**.
+
+I value clean code, continuous learning, and taking ownership of my work. I'm always eager to explore new technologies, solve real-world problems, and turn ideas into meaningful digital solutions.
+
+**My goal is simple:** Keep learning, keep building, and keep growing as a developer.
 
 ---
 
