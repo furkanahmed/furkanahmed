@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-furkanbitm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://dremoy.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Dremoy.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-dremoy.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/furkanahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
