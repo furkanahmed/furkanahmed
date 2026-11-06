@@ -40,7 +40,7 @@ I value clean code, continuous learning, and taking ownership of my work. I'm al
 - 🔭 **Currently Working On:** Developing production web applications, including **[Dremoy Income Manager](https://app.dremoy.com/)**, **[Dremoy School ERP](https://school.dremoy.com/)**, and **[BazarDor](https://github.com/furkanahmed/bazardor)**.
 - 🌱 **Currently Exploring & Learning:** **Next.js 15 (App Router, Server Actions)**, component architecture, and scalable database design.
 - 🎯 **Core Mindset:** Honest dedication, continuous daily practice, and striving for excellence under senior mentorship.
-- 💬 **Ask Me About:** **React, Next.js, JavaScript, Tailwind CSS, Laravel, Git**, and responsive UI design.
+- 💬 **Ask Me About:** **React, Next.js, JavaScript, Tailwind CSS, Git**, and responsive UI design.
 - 📫 **How to reach me:** Drop me an email at **[furkanbitm@gmail.com](mailto:furkanbitm@gmail.com)** or visit **[dremoy.com](https://dremoy.com)**.
 
 ---
