@@ -11,7 +11,7 @@
   <a href="https://dremoy.com" target="_blank">
     <img src="https://raw.githubusercontent.com/furkanahmed/furkanahmed/main/website.svg" alt="Website - dremoy.com" />
   </a>
-  <a href="https://linkedin.com/in/furkanahmed" target="_blank">
+  <a href="https://linkedin.com/in/furkanahmedbd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/furkanahmed">
